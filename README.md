@@ -1,3 +1,3 @@
 # WebDev-Bootcamp
 
-Repo for Udemy Web Development bootcamp course
+Repo for Udemy Web Development Bootcamp course
